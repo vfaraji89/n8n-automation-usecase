@@ -19,7 +19,7 @@ A comprehensive collection of **prompts**, **templates**, and **documentation** 
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 n8n-automation-usecase/
@@ -68,7 +68,6 @@ Copy the generated JSON workflow and paste it into your n8n canvas (`Cmd+V` / `C
 
 ---
 
-## 📚 Documentation
 
 ### The Simit-to-Croissant Framework
 
@@ -84,7 +83,6 @@ Read the full philosophy and see visual diagrams:
 
 ---
 
-## 🛠️ 2025 n8n Features
 
 This repository is optimized for the latest n8n capabilities:
 
