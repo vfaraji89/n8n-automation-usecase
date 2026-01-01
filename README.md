@@ -1,4 +1,4 @@
-# 🥯 Automation Use Cases
+# Automation Use Cases
 
 > **The Simit-to-Croissant Framework** — A philosophy for building AI automation with any tools
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 What is This?
+## What is This?
 
 A comprehensive collection of **prompts**, **templates**, and **documentation** for building AI-powered automation workflows with n8n,power automate and zapier. This repository follows the **Simit-to-Croissant** philosophy:
 
@@ -33,25 +33,25 @@ n8n-automation-usecase/
     │   ├── dynamic-builder.md             # Interview-style prompt generator
     │   └── dynamic-agent-v3.md            # v3.0 Dynamic Agent (2025)
     ├── 📂 tiers/
-    │   ├── 01-basic-linear-task-master.md      # 🟢 Simple automations
-    │   ├── 02-intermediate-multi-tool.md       # 🟡 Multi-tool orchestration
-    │   └── 03-advanced-autonomous-empire.md    # 🔴 Production-grade agents
+    │   ├── 01-basic-linear-task-master.md      # Simple automations
+    │   ├── 02-intermediate-multi-tool.md       # Multi-tool orchestration
+    │   └── 03-advanced-autonomous-empire.md    # Production-grade agents
     └── 📂 reference/
         └── 2025-n8n-features.md           # Key features & best practices
 ```
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Choose Your Tier
 
 | Complexity | Prompt | Best For | Build Time |
 |------------|--------|----------|------------|
-| 🟢 Basic | [Linear Task](prompts/tiers/01-basic-linear-task-master.md) | Email categorization, notifications | 30 min |
-| 🟡 Intermediate | [Multi-Tool](prompts/tiers/02-intermediate-multi-tool.md) | Customer support, CRM updates | 2-4 hours |
-| 🔴 Advanced | [Autonomous](prompts/tiers/03-advanced-autonomous-empire.md) | research functions | 1-2 days |
-| 🔵 Meta | [Dynamic ](prompts/meta-prompts/dynamic-builder.md) | When you don't know where to start | Varies |
+| Basic | [Linear Task](prompts/tiers/01-basic-linear-task-master.md) | Email categorization, notifications | 30 min |
+| Intermediate | [Multi-Tool](prompts/tiers/02-intermediate-multi-tool.md) | Customer support, CRM updates | 2-4 hours |
+| Advanced | [Autonomous](prompts/tiers/03-advanced-autonomous-empire.md) | research functions | 1-2 days |
+| Meta | [Dynamic ](prompts/meta-prompts/dynamic-builder.md) | When you don't know where to start | Varies |
 
 ### 2. Copy the Prompt
 
@@ -74,13 +74,13 @@ Copy the generated JSON workflow and paste it into your n8n canvas (`Cmd+V` / `C
 
 Read the full philosophy and see visual diagrams:
 
-👉 [**Simit-to-Croissant Deck**](docs/simit-to-croissant-deck.md)
+[**Simit-to-Croissant Deck**](docs/simit-to-croissant-deck.md)
 
 **Key Concepts:**
-- 🥯 Start simple, solve immediate pain points
-- 🔄 Iterate continuously, automation is not "set and forget"
-- 🔐 Harden for enterprise with security-first approach
-- 🥐 Scale to sophisticated multi-agent systems
+- Start simple, solve immediate pain points
+- Iterate continuously, automation is not "set and forget"
+- Harden for enterprise with security-first approach
+- Scale to sophisticated multi-agent systems
 
 ---
 
@@ -97,42 +97,11 @@ This repository is optimized for the latest n8n capabilities:
 | **Postgres Memory** | Long-term conversation persistence |
 | **MCP Integration** | Model Context Protocol servers |
 
-See the full reference: [2025 n8n Features](prompts/reference/2025-n8n-features.md)
+
 
 ---
 
-## 💡 Use Cases
-
-### SEO & Marketing
-- Automated keyword detection
-- AI article writing pipelines
-- Competitor tracking systems
-
-### Video Production
-- Script generation with AI
-- Leonardo AI + ElevenLabs integration
-- "Faceless" content automation
-
-### Customer Support
-- Sentiment analysis agents
-- Auto-resolve vs. human escalation
-- Multi-channel support bots
-
----
-
-## 🔐 Security Best Practices
-
-Following n8n 2.0 hardening principles:
-
-- ✅ Isolated task runners for code execution
-- ✅ Role-Based Access Control (RBAC)
-- ✅ Self-hosting recommendations (VPS/Docker)
-- ✅ Encrypted credentials management
-- ✅ Audit logging
-
----
-
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -144,30 +113,24 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [n8n.io](https://n8n.io) — The workflow automation platform
-- [Anthropic Claude](https://anthropic.com) — AI assistance
-- [OpenAI](https://openai.com) — AI models and embeddings
+- Power Automate official document -
+- [Anthropic Claude](https://anthropic.com) — Claude Code (Github Extension)
+
+Note of Disclaimer: Insights or wordings are extended by AI instead of pure writing with AI
 
 ---
-
-## 📬 Contact
 
 **Vahid Faraji**
 
 - GitHub: [@vfaraji89](https://github.com/vfaraji89)
 
----
 
-<p align="center">
-  <i>"The best automation is the one that solves a real problem today, while being architected for the challenges of tomorrow."</i>
-  <br><br>
-  <b>— The Simit-to-Croissant Philosophy</b>
-</p>
